@@ -1,0 +1,9 @@
+    Events are a way of saying something happened without knowing or caring about who is
+listening, if anyone.
+    There are publishers and subscribers. The publisher can store events and the subscribers
+can subscribe to him. Multiple subscribers can subscribe to the same publisher.
+Whenever the publisher fires off its events, all the subscribers get notified that these
+had occurred.
+    With this mechanism, it's possible to decouple essencial from optional code.
+e.g.: separate a reusable logical code (publisher) from a visual code (subscriber) built
+specifically to display an UI for that logical code.
