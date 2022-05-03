@@ -29,7 +29,7 @@ public class Delegates : MonoBehaviour
     
     #region Variables used in region #3
     /*
-     * 'Func' and 'Action' makes it possible to create a delegate without having
+     * 'Func' and 'Action' make it possible to create a delegate without having
      * to directly define it.
      * 'Func' is used to define a delegate for a function (has a return).
      * 'Action' is used to define a delegate for a method (no return).
