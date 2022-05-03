@@ -1,6 +1,6 @@
 # About it
 
-I found a very cool playlist on Code Monkey's YouTube channel which showed me that C# actually had some pretty useful features to help people write cleaner code.
+I found a very cool playlist on Code Monkey's YouTube channel which shows that C# actually has some pretty useful features to help people write cleaner code.
 
 His lessons helped me so much that I decided to make another tutorial project, this time explaining in detail everything I learned from his advanced C# videos. This way, if I happen to forget something about them, I will quickly remind it by revisiting this project.
 
