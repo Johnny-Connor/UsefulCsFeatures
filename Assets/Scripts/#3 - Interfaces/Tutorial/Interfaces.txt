@@ -3,7 +3,7 @@ everything that was specified by the contract (e.g.: properties, functions, dele
     An Interface only requires the classes that have implemented it to have its specified
 elements named the same way, without caring about what is written inside them. That means
 that two classes with the same Interface can still have their equally named elements with
-distinct codes from each other, like usual. 
+distinct codes from each other, as usual. 
     The main difference from not using this feature lies in the fact that, with Interfaces,
 it's possible to refer to every equally named element from these classes with just an 
 instance of the Interface they've implemented. In other words, they work similarly to
