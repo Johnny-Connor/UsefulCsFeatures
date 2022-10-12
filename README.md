@@ -1,4 +1,4 @@
-# About it
+# About
 
 I found a very cool playlist on Code Monkey's YouTube channel which shows some pretty useful C# features to help people write cleaner code.
 
